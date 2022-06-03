@@ -8,6 +8,10 @@ public class Start {
     public static void main(String[] args) {
         SpringApplication.run( Start.class );
     }
+
+    //asdjahkjhfkljhbkjbn
+
+
 }
 
 /* 패키지구조
